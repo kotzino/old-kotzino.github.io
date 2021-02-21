@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://kotzino.github.io/blog</id>
 	<author>
-		<name>Dimitris Kotzinos/name>
+		<name>Dimitris Kotzinos</name>
 		<email>kotzino</email>
 	</author>
 
